@@ -1,3 +1,4 @@
+```
 val yehor = developer {
     about {
         name = "Yehor Kudimov"
@@ -8,4 +9,4 @@ val yehor = developer {
         telegram = "@qudim"
     }
 }
-
+```
