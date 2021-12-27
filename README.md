@@ -1,4 +1,4 @@
-```
+```kotlin
 val yehor = developer {
     about {
         name = "Yehor Kudimov"
