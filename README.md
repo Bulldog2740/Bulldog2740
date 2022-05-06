@@ -7,7 +7,7 @@ val yehor = developer {
     } 
     links  {
         Telegram = "@qudim"
-        Linkedin = https://www.linkedin.com/in/yehorq/
+        Linkedin = [click](https://www.linkedin.com/in/yehorq/)
     }
 }
 ```
