@@ -6,7 +6,8 @@ val yehor = developer {
         platform = Android
     } 
     links  {
-        telegram = "@qudim"
+        Telegram = "@qudim"
+        Linkedin = https://www.linkedin.com/in/yehorq/
     }
 }
 ```
