@@ -7,6 +7,7 @@ val yehor = developer {
     } 
     links  {
         Telegram = "@qudim"
+        [GitHub Pages](https://pages.github.com/)
         Linkedin = "https://www.linkedin.com/in/yehorq/"
     }
 }
