@@ -1,3 +1,4 @@
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 ```kotlin
 val yehor = developer {
     about {
